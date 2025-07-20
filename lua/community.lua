@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }
