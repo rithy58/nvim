@@ -13,4 +13,6 @@ return {
   { import = "astrocommunity.pack.just" },
   { import = "astrocommunity.pack.biome" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
 }
